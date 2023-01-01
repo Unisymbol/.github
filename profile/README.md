@@ -12,6 +12,7 @@ Unisymbol and its subsidiary [EmojiDAO](https://github.com/TheEmojiDAO) came fro
 
 <img width="400px" src="https://moreprideemojis.com/images/AccordingToUnicode/Large/FlagsAccordingToUnicode-25.png">
 "Clocks are free to express themselves, but people aren’t."
-- More Pride Emojis / [TannerMarino](https://github.com/tannn).
+- More Pride Emojis/@tannn.
 <img width="400px" src="https://moreprideemojis.com/images/AccordingToUnicode/Large/FlagsAccordingToUnicode-68.png">
-"Paperclips have better representation than people’s sexualities. This needs to change." - More Pride Emojis, [TannerMarino](https://github.com/tannn/) .
+"Paperclips have better representation than people’s sexualities. This needs to change." - More Pride Emojis/@tannn.
+<img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_bisexuality.svg"/> <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_asexuality.svg"/> <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_nonbinary.svg"/> <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_agender.svg"/> <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_genderqueer.svg"/> <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_pansexuality.svg"/> <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_polysexuality.svg"/> <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_uniaflag.svg"/>
