@@ -2,4 +2,4 @@
 
 ## Sub-organizations
 
-* [TheEmojiDAO](https://github.com/TheEmojiDAO)
+* [EmojiDAO](https://github.com/TheEmojiDAO)
