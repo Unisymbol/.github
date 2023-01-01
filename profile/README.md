@@ -12,6 +12,6 @@ Unisymbol and its subsidiary [EmojiDAO](https://github.com/TheEmojiDAO) came fro
 
 <img width="400px" src="https://moreprideemojis.com/images/AccordingToUnicode/Large/FlagsAccordingToUnicode-25.png">
 "Clocks are free to express themselves, but people aren’t."
-- More Pride Emojis/[TannerMarino](https://github.com/tannn).
+- More Pride Emojis / [TannerMarino](https://github.com/tannn).
 <img width="400px" src="https://moreprideemojis.com/images/AccordingToUnicode/Large/FlagsAccordingToUnicode-68.png">
-"Paperclips have better representation than people’s sexualities. This needs to change." - More Pride Emojis/[TannerMarino](https://github.com/tannn).
+"Paperclips have better representation than people’s sexualities. This needs to change." - More Pride Emojis / [TannerMarino](https://github.com/tannn).
