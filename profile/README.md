@@ -1,5 +1,7 @@
 # The Unisymbol DAO
 
+The Unisymbol DAO is here to complement Unicode in the task of standardizing computer symbols and emojis.
+
 ## Sub-organizations
 
 * [EmojiDAO](https://github.com/TheEmojiDAO) - responsible to introducing brand new emojis to systems, such as the bisexuality <img width="16px" src="https://raw.githubusercontent.com/googlefonts/noto-emoji/b2256e0f7dddfdff6e65f9c8b70f09934791e430/queue/emoji_bisexuality.svg"/> flag
